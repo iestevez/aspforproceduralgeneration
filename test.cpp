@@ -1,3 +1,12 @@
+/* Example test program showing how to use Clingo embedded
+with C++ program
+
+
+*/ 
+
+
+
+
 #include "Room.h"
 #include "Worldobject.h"
 #include "Wall.h"
